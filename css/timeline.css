@@ -1,0 +1,415 @@
+.uiButtonLarge{
+               padding:20px 6px;
+}
+input{
+               font-size:11px;
+}
+
+
+.uiButtonConfirm{
+               background-color:#5B74A8;
+               background-position:0 -48px;
+               border-color:#29447E #29447E #1A356E;
+               font-weight:bold;
+               color:#FFFFFF;
+}
+.friends_area{
+    
+	padding:5px;
+    height:80px;
+    border-bottom: #999999 solid 1px;
+    margin-right: 20px;
+
+    }
+.top_area{
+	background:#627AAD;
+	font-size:14px;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:6px 6px 6px 12px;
+}
+.name b{
+	font-size:12px;
+	color:#3B5998;
+	cursor:pointer;
+	}
+.name{
+	font-size:13px;
+	color:#666;
+	
+	margin:5px;
+	margin-top:-5px;
+	}
+#search_area{
+	background:#F2F2F2 none repeat scroll 0 0;
+	width:515px;
+	padding:5px;
+	height:30px;
+}
+#image2 {
+    position: relative;
+    top: -10px;
+    left: -20px;
+}
+
+
+span.read {
+ display: none;
+}
+.friends_area .name:hover span.read {
+    display: block;
+ float: right;
+ margin: 0 10px  0 10;
+ color: #f00;
+
+}
+ .tanggalfeed {
+ 	font-size: 9px;
+ 	margin-top: 5px;
+ }
+ .aktifitas {
+ color: #000000;
+ font-family: Arial, Helvetica, sans-serif;
+
+
+ }
+ 
+
+
+.ico-star {
+	background-image: url(../img/star_list.png) ;
+}
+
+.db-ico {
+	height: 25px;
+	width: 25px;
+	background-repeat: no-repeat;
+
+	padding-right: 30px;
+	padding-bottom: 10px;
+}
+
+.load_more {
+	background-color:#FFFFFF;
+
+	background-position:left top;
+	background-repeat:repeat-x;
+	border-color:#DDDDDD #AAAAAA #AAAAAA #DDDDDD;
+	border-style:solid;
+	border-width:1px;
+	display:block;
+	font-size:14px;
+	font-weight:bold;
+	height:22px;
+	line-height:1.5em;
+	margin-bottom:6px;
+	outline:medium none;
+
+	text-align:center;
+	text-shadow:1px 1px 1px #FFFFFF;
+	width:99%;
+}
+.load_more {
+	-moz-border-radius:5px 5px 5px 5px;
+}
+.load_more:hover {
+	background-position:left -78px;
+	border:1px solid #BBBBBB;
+	text-decoration:none;
+}
+.load_more:active {
+	background-position:left -38px;
+	color:#666666;
+}
+
+.ico-notulen {
+	background-image: url(../img/activity/notulen.png) ;
+}
+
+.ico-project {
+	background-image: url(../img/activity/project.png) ;
+}
+.ico-event {
+	background-image: url(../img/activity/event.png) ;
+}
+.ico-biodata {
+	background-image: url(../img/activity/biodata.png) ;
+}
+.ico-message {
+	background-image: url(../img/activity/message.png) ;
+}
+
+.ico-password {
+	background-image: url(../img/activity/password.png) ;
+}
+.ico-sipat {
+	background-image: url(../img/activity/sipat.png) ;
+}
+.ico-componet {
+	background-image: url(../img/activity/componet.png) ;
+}
+.ico-publish {
+	background-image: url(../img/activity/publish.png) ;
+}
+
+.ico-synk {
+	background-image: url(../img/activity/synk.png) ;
+}
+
+.ico-whiteboard {
+	background-image: url(../img/activity/whiteboard.png) ;
+}
+
+.ico-wisdom {
+	background-image: url(../img/activity/wisdom.png) ;
+}
+
+.ico-corigenda {
+	background-image: url(../img/activity/corigenda.png) ;
+}
+
+
+.ico-ammandemnt {
+	background-image: url(../img/activity/ammandemnt.png) ;
+}
+
+.ico-publication {
+	background-image: url(../img/activity/publication.png) ;
+}
+
+.ico-dictionary {
+	background-image: url(../img/activity/dictionary.png) ;
+}
+
+.terusan-notulen  {
+
+color: #F0F;
+
+}
+.terusan-message  {
+
+color: #EE1111;
+
+}
+.terusan-biodata   {
+
+color: #47196e;
+
+}
+.terusan-project   {
+
+color: #074676;
+
+}
+.terusan-sipat   {
+
+color: #074676;
+
+}
+.terusan-componet    {
+
+color: #074676;
+
+}
+.terusan-password    {
+
+color: #a40312;
+
+}
+.terusan-publish     {
+
+color: #47196e;
+
+}
+.terusan-synk        {
+
+color:#074676 ;
+
+}
+.terusan-whiteboard   {
+
+color: #d19400;
+
+}
+.terusan-wisdom   {
+
+color: #074676;
+
+}
+.terusan-ammandemnt    {
+
+color: #074676;
+
+}
+.terusan-publication   {
+
+color: #47196e;
+
+}
+.terusan-dictionary   {
+
+color: #47196e;
+
+}
+
+
+
+
+.terusan-notulen:visited   {
+
+color: #47196e;
+
+}
+.terusan-message:visited   {
+
+color: #EE1111;
+
+}
+.terusan-biodata:visited    {
+
+color: #47196e;
+
+}
+.terusan-project:visited    {
+
+color: #F0F;
+
+}
+.terusan-sipat:visited    {
+
+color: #074676;
+
+}
+.terusan-componet:visited     {
+
+color: #074676;
+
+}
+.terusan-password:visited     {
+
+color: #a40312;
+
+}
+.terusan-publish:visited      {
+
+color: #47196e;
+
+}
+.terusan-synk:visited         {
+
+color:#074676 ;
+
+}
+.terusan-whiteboard:visited    {
+
+color: #d19400;
+
+}
+.terusan-wisdom:visited    {
+
+color: #074676;
+
+}
+.terusan-ammandemnt:visited     {
+
+color: #074676;
+
+}
+.terusan-publication:visited    {
+
+color: #47196e;
+
+}
+.terusan-dictionary:visited    {
+
+color: #47196e;
+
+}
+
+
+.ico-Comments  {
+	background-image: url(../img/activity/comment5.png) ;
+}
+
+.ico-ProjectTasks {
+	background-image: url(../img/activity/whiteboard.png) ;
+}
+
+
+.ico-ProjectFiles  {
+	background-image: url(../img/activity/trolley2.png) ;
+}
+
+.ico-ProjectMessages  {
+	background-image: url(../img/activity/msessage.png) ;
+}
+
+.ico-ProjectCost  {
+	background-image: url(../img/activity/recycling3.png) ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.terusan-Comments:visited    {
+
+color: #F0F;
+
+}
+.terusan-ProjectTasks:visited      {
+
+color:  #a40312 ;
+
+}
+.terusan-ProjectFiles:visited     {
+
+color: #074676;
+
+}
+.terusan-ProjectMessages:visited     {
+
+color: #a40312;
+
+}
+
+.terusan-ProjectCost:visited    {
+
+color: #d19400;
+
+}
+
+.terusan-Comments   {
+
+color: #F0F;
+
+}
+.terusan-ProjectTasks     {
+
+color:  #a40312;
+
+}
+.terusan-ProjectFiles    {
+
+color: #074676;
+
+}
+.terusan-ProjectMessages    {
+
+color: #a40312;
+
+}
+
+.terusan-ProjectCost   {
+
+color: #d19400;
+
+}

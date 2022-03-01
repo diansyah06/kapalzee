@@ -1,0 +1,192 @@
+.txt {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	color:#333333
+
+}
+
+
+
+.txtBlue {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight:bold;
+
+	color:#548BEF;
+
+}
+
+
+.txt10 {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color:#333333
+
+}
+
+.txt10wht {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color:#FFFFFF
+
+}
+
+.txt11wht {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	color:#FFFFFF
+
+}
+
+.bgDark {
+
+	background:#339955;
+
+	font-weight:bold
+
+}
+
+.tblHead {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight:bold;
+
+	text-transform: uppercase;
+
+	color: #FFFFFF;
+
+	background: url(../images/topmenubg.jpg);
+
+	line-height:26px
+
+}
+
+.tblSubHead {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	font-weight:bold;
+
+	text-transform: uppercase;
+
+	color: #FFFFFF;
+
+	background:#11C877;
+
+}
+
+.err {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight:bold;
+
+	color:#FF0000;
+
+}
+
+.inTbl {
+
+	border: 1px solid #666666;
+
+}
+
+.inputTxt {
+
+	width:250px;
+
+}
+
+.txtArea {
+
+	width:250px;
+
+	height:100px;
+
+}
+
+A.navlink {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight:bold;
+
+	color:#FFFFFF;
+
+	text-decoration:none;
+
+}
+
+
+
+A:hover.navlink{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight:bold;
+
+	color:#CCCCCC
+
+}
+
+
+
+A.submenu {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight:bold;
+
+	color:#548BEF;
+
+	text-decoration:none;
+
+}
+
+
+
+A:hover.submenu{
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	font-weight:bold;
+
+	color:#333300;
+
+}
+
+.kotak {
+     margin-left: auto;
+  margin-right: auto;
+  width:750px;
+}

@@ -1,0 +1,4 @@
+ALTER TABLE `rm_workspaces` ADD `kadivprb` INT NOT NULL AFTER `trash_byid`, ADD `kadivprbat` DATETIME NULL DEFAULT NULL AFTER `kadivprb`, ADD `kadivsurvey` INT NOT NULL AFTER `kadivprbat`, ADD `kadivsurveyat` DATETIME NULL DEFAULT NULL AFTER `kadivsurvey`, ADD `kadivkemnko` INT NOT NULL AFTER `kadivsurveyat`, ADD `kadivkemnkoat` DATETIME NULL DEFAULT NULL AFTER `kadivkemnko`;
+
+ALTER TABLE `rm_workspaces` ADD `codeowner` VARCHAR(50) NULL DEFAULT NULL AFTER `kadivkemnkoat`;
+

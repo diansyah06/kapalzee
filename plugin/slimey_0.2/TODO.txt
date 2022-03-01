@@ -1,0 +1,11 @@
+- Bugs:
+	- IE doesn't fit editor on load because of error 'this.container.offsetHeight is null'
+	- Resize handle sometimes is separated from the selected element (e.g. when undoing)
+
+- Features:
+	- Support for ODT format
+	- Support for PPT format
+	- Element border formatting
+	- Slideshow aspect ratio
+	- Slide background
+	- Minify JS, CSS and sprite images
